@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<!--lista definiciones: watch ligth draw picture paper letter border switch arm -->
+<body>
+    <h1><b>Un poco de inglés útil para el día a día</b></h1>
+    <ol style="1" start="1"> 
+    <dt> <b>WATCH:</b> 
+        <dd>Mirar
+        <dd>Ver  
+        <dd>Observar
+        <dd>Vigilar
+        <dd>Custodiar
+    <dt> <b>LIGTH:</b> 
+        <dd>Luz
+        <dd>Lámpara</dd>
+        <dd>Ligero</dd>
+        <dd>Liviano</dd>
+        <dd>Claro</dd>
+    <dt><b>DRAW:</b></dt>
+        <dd>Dibujar
+        <dd>Atraer
+        <dd>Sacar
+        <dd>Provocar
+        <dd>Despertar    
+    <dt><b>PICTURE:</b></dt>
+        <dd>Imagen
+        <dd>Dibujo
+        <dd>Foto
+        <dd>Retrato
+    <dt><b>PICTURE:</b></dt>
+        <dd>Papel
+        <dd>Periódico
+        <dd>Documentación
+    <dt><b>LETTER:</b></dt>      
+        <DD>Letra</DD>    
+        <dd>Carta</dd>   
+    <dt><b>BORDER:</b></dt>     
+        <DD>Borde</DD>
+        <dd>Frontera</dd>    
+    <dt><b>SWITCH:</b></dt>    
+        <DD>Interruptor</DD>
+        <dd>Conmutador</dd>
+    <dt><b>ARM:</b></dt>  
+        <DD>Brazo</DD>
+        <dd>Sección</dd>
+        <dd>Órgano</dd>
+</body>
+</html>
